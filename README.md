@@ -1,13 +1,13 @@
 ## Data Mining Midterm Exam Notes by Samuel
 
 #### GINI index
-
+```math
 $GINI(t)=1- \sum_{j=1}^{n_C} p(j|t)^2$
 
 $GINI_{split}= \sum_{i=1}^{k} \frac{n_i}{n}GINI(i)$
 
 $Gain = P - M$
-
+```
 ---
 
 #### Confusion matrix
